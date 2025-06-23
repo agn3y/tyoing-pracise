@@ -1,1 +1,1 @@
-# tyoing-pracise
+# typing-pracise
